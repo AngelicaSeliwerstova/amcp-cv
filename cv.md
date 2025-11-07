@@ -15,10 +15,8 @@
     -умение работать в Exel
     -знание C++ Python
     -владение английским языком C1 
-
     -избирательное решение задач
-
-    ---
+---
 
 ### Мои пикми проектики💖:
 [☦️](https://github.com/AngelicaSeliwerstova/amcp-cv/blob/gh-pages/cv.md)
